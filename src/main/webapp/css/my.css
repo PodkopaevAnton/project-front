@@ -1,0 +1,29 @@
+table, td {
+    border-collapse: collapse;
+    border: 1px solid #333;
+    background: #CCCCCC;
+    text-align: center;
+    font-size: 18px;
+
+}
+table{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+th{
+    border: 2px solid #333;
+    background: cornflowerblue;
+}
+
+.field {text-align:right; line-height:20px;}
+
+.main {float:left}
+
+input{
+    width:200px;
+}
+select{
+    width: 210px;
+}
+
